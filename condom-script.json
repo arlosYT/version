@@ -3,7 +3,7 @@
     "news": "Fixed pregnancy test bugs and added new security features",
     "changelog": [
         "Fixed bug with fix",
-        "Added better solution",
+        "Added better solution", 
         "After QBCore compatibility approval",
         "Added ox_inventory support",
         "Added a block for males to take the test"
